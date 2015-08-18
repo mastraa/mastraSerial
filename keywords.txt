@@ -1,0 +1,4 @@
+mastraSerial	KEYWORD1
+
+init	KEYWORD2
+printSerial	KEYWORD2
